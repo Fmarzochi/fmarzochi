@@ -1,5 +1,5 @@
-### Hi there eu sou o Felipe Marzochi 👋
-### Desenvolvedor em processo de crescimento 
+### My name is Felipe Marzochi 👋
+### Discovering a new world in PROGRAMMING 💕
 
 
 
