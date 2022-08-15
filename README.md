@@ -1,13 +1,13 @@
 <div display="inline-block">
     <h1 align="left">Olá Devs,</h1>
-    <p>Meu nome é Felipe Marzochi, tenho 36 anos e estou em transição de carreira deixando á area da sáude e me mergulhando em técnologia.<br>
+    <p>Meu nome é Felipe Marzochi, tenho 36 anos e estou em transição de carreira deixando á area da sáude e me mergulhando em tecnologia.<br>
        Comecei meus estudos em Dez/2021 e venho me aprimorando cada dia, que tal tomar um café e ferver cabeça com bug´s?
   </div>
   
   <div>
       <p><b>No momento curso:</b></p>
         
-    💽 Bacharelado - Técnologia da Informação    
+    💽 Bacharelado - Tecnologia da Informação    
     📚 MBA - Engenharia de Sotfware
   </div>
   
