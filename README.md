@@ -7,7 +7,6 @@
   <div>
       <p><b>No momento curso:</b></p>
         
-    💽 Bacharelado - Tecnologia da Informação    
     📚 MBA - Engenharia de Sotfware
   </div>
   
