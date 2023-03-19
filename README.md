@@ -7,7 +7,7 @@
   <div>
       <p><b>No momento curso:</b></p>
         
-    📚 MBA - Engenharia de Sotfware
+    📚 Pós Graduado - Engenharia de Sotfware
   </div>
   
   <div align="center">
