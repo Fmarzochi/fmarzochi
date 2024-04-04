@@ -1,6 +1,6 @@
 <div display="inline-block">
     <h1 align="left">Olá Devs,</h1>
-    <p>MFormado em Medicina Veterinária, estou em transição de carreira após descobrir minha verdadeira vocação em 2020, quando iniciei meus estudos no mundo da tecnologia. Realizei diversos cursos na área de programação e completei minha pós-graduação em Engenharia de Software. Atualmente, busco uma oportunidade de estágio para continuar minha jornada nesse novo campo.
+    <p>Formado em Medicina Veterinária, estou em transição de carreira após descobrir minha verdadeira vocação em 2020, quando iniciei meus estudos no mundo da tecnologia. Realizei diversos cursos na área de programação e completei minha pós-graduação em Engenharia de Software. Atualmente, busco uma oportunidade de estágio para continuar minha jornada nesse novo campo.
   </div>
   
   <div>
