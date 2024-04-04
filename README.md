@@ -1,7 +1,6 @@
 <div display="inline-block">
     <h1 align="left">Olá Devs,</h1>
-    <p>Meu nome é Felipe Marzochi, tenho 37 anos e estou em transição de carreira deixando á area da sáude e me mergulhando em tecnologia.<br>
-       Comecei meus estudos em Dez/2021 e venho me aprimorando cada dia, que tal tomar um café e ferver cabeça com bug´s?
+    <p>MFormado em Medicina Veterinária, estou em transição de carreira após descobrir minha verdadeira vocação em 2020, quando iniciei meus estudos no mundo da tecnologia. Realizei diversos cursos na área de programação e completei minha pós-graduação em Engenharia de Software. Atualmente, busco uma oportunidade de estágio para continuar minha jornada nesse novo campo.
   </div>
   
   <div>
