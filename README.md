@@ -6,10 +6,8 @@ Em 2020, descobri que meu futuro estava na TI e desde então tenho me dedicado i
 
 Durante minha trajetória como médico veterinário, meu tempo para estudar era limitado, mas agora estou completamente focado em me aprimorar na área de tecnologia. Estou procurando ativamente por uma oportunidade de estágio REMOTO - Home Office, pois atualmente resido no interior de São Paulo e dado as circunstancias o que me impede de me deslocar e residir em os grandes centros urbanos onde a maioria das oportunidades está concentrada.
 
-Estou determinado a me desenvolver profissionalmente, adquirir novas habilidades e contribuir de forma significativa para o campo da tecnologia. 
-
-Se vocês conhecem alguma oportunidade ou estão dispostos a me ajudar nessa jornada, por favor, entrem em contato pelo WhatsApp/Telefone (19) 98234-1110 ou deixe uma mensagem abaixo.
-
+Estou determinado a me desenvolver profissionalmente, adquirir novas habilidades e contribuir de forma significativa para o campo da tecnologia.
+Se vocês conhecem alguma oportunidade ou estão dispostos a me ajudar nessa jornada, por favor, entrem em contato pelo WhatsApp/Telefone (19) 98234-1110.
 Estou disponível para fornecer mais informações e discutir como posso agregar valor à sua empresa.
 
 Agradeço antecipadamente pela atenção e pela possibilidade de colaborarmos juntos</p>
