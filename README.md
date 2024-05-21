@@ -14,10 +14,8 @@ Agradeço antecipadamente pela atenção e pela possibilidade de colaborarmos ju
 
   </div>
   
-  <div>
-      <p><b>No momento curso:</b></p>
-        
-    📚 Pós Graduado - Engenharia de Sotfware
+  <div>        
+    <p>📚 Pós Graduado - Engenharia de Sotfware</p>
   </div>
   
   <div align="center">
