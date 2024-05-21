@@ -1,6 +1,19 @@
 <div display="inline-block">
     <h1 align="left">Olá Devs,</h1>
-    <p>Formado em Medicina Veterinária, estou em transição de carreira após descobrir minha verdadeira vocação em 2020, quando iniciei meus estudos no mundo da tecnologia. Realizei diversos cursos na área de programação e completei minha pós-graduação em Engenharia de Software. Atualmente, busco uma oportunidade de estágio para continuar minha jornada nesse novo campo.
+    <p>Após 13 anos como Médico Veterinário, decidi encerrar minha carreira na saúde em fevereiro de 2024 para seguir minha paixão pela tecnologia. 
+
+Em 2020, descobri que meu futuro estava na TI e desde então tenho me dedicado intensamente aos estudos. Concluí com sucesso o Programa de Ensino Oracle One Full Stack (Alura) em Tecnologia da Informação, seguido por um MBA em Engenharia de Software. No dia 30 de julho, prestarei vestibular para o curso de graduação em Tecnologia da Informação, buscando expandir ainda mais meu conhecimento e habilidades.
+
+Durante minha trajetória como médico veterinário, meu tempo para estudar era limitado, mas agora estou completamente focado em me aprimorar na área de tecnologia. Estou procurando ativamente por uma oportunidade de estágio REMOTO - Home Office, pois atualmente resido no interior de São Paulo e dado as circunstancias o que me impede de me deslocar e residir em os grandes centros urbanos onde a maioria das oportunidades está concentrada.
+
+Estou determinado a me desenvolver profissionalmente, adquirir novas habilidades e contribuir de forma significativa para o campo da tecnologia. 
+
+Se vocês conhecem alguma oportunidade ou estão dispostos a me ajudar nessa jornada, por favor, entrem em contato pelo WhatsApp/Telefone (19) 98234-1110 ou deixe uma mensagem abaixo.
+
+Estou disponível para fornecer mais informações e discutir como posso agregar valor à sua empresa.
+
+Agradeço antecipadamente pela atenção e pela possibilidade de colaborarmos juntos</p>
+
   </div>
   
   <div>
