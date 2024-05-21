@@ -13,6 +13,8 @@ Estou disponível para fornecer mais informações e discutir como posso agregar
 Agradeço antecipadamente pela atenção e pela possibilidade de colaborarmos juntos</p>
 
   </div>
+
+
   
   <div>        
     <p>📚 Pós Graduado - Engenharia de Sotfware</p>
