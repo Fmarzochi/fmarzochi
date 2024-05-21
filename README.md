@@ -2,7 +2,7 @@
     <h1 align="left">Olá Devs,</h1>
     <p>Após 13 anos como Médico Veterinário, decidi encerrar minha carreira na saúde em fevereiro de 2024 para seguir minha paixão pela tecnologia. 
 
-Em 2020, descobri que meu futuro estava na TI e desde então tenho me dedicado intensamente aos estudos. Concluí com sucesso o Programa de Ensino Oracle One Full Stack (Alura) em Tecnologia da Informação, seguido por um MBA em Engenharia de Software. No dia 30 de julho, prestarei vestibular para o curso de graduação em Tecnologia da Informação, buscando expandir ainda mais meu conhecimento e habilidades.
+<h1>Em 2020, descobri que meu futuro estava na TI e desde então tenho me dedicado intensamente aos estudos. Concluí com sucesso o Programa de Ensino Oracle One Full Stack (Alura) em Tecnologia da Informação, seguido por um MBA em Engenharia de Software. No dia 30 de julho, prestarei vestibular para o curso de graduação em Tecnologia da Informação, buscando expandir ainda mais meu conhecimento e habilidades.<h/1>
 
 Durante minha trajetória como médico veterinário, meu tempo para estudar era limitado, mas agora estou completamente focado em me aprimorar na área de tecnologia. Estou procurando ativamente por uma oportunidade de estágio REMOTO - Home Office, pois atualmente resido no interior de São Paulo e dado as circunstancias o que me impede de me deslocar e residir em os grandes centros urbanos onde a maioria das oportunidades está concentrada.
 
