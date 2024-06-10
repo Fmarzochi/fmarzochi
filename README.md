@@ -1,17 +1,10 @@
 <div display="inline-block">
     <h1 align="left">Olá Devs,</h1>
-    <p>Após 13 anos como Médico Veterinário, decidi encerrar minha carreira na saúde em fevereiro de 2024 para seguir minha paixão pela tecnologia. 
+    <p>Sou um profissional especializado em Engenharia de Software com um background diverso e sólido em tecnologia. Tenho um MBA em Engenharia de Software pela FAMESSP e sou certificado pelo programa Oracle Alura em Tecnologia da Informação. Minha formação acadêmica inicial é em Medicina Veterinária pela UNIP, demonstrando minha capacidade de adaptação e aprendizado contínuo.
 
-Em 2020, descobri que meu futuro estava na TI e desde então tenho me dedicado intensamente aos estudos. Concluí com sucesso o Programa de Ensino Oracle One Full Stack (Alura) em Tecnologia da Informação, seguido por um MBA em Engenharia de Software. No dia 30 de julho, prestarei vestibular para o curso de graduação em Tecnologia da Informação, buscando expandir ainda mais meu conhecimento e habilidades.
+Possuo Habilidades Técnicas como: Linguagens de Programação: JavaScript, Java, TypeScript, Frameworks e Bibliotecas: ReactJS, React Native, NodeJS, Banco de Dados: SQL, MySQL, Banco de Dados Relacionais e Não Relacionais, Ferramentas e Metodologias: Git, Metodologias Ágeis, Administração de Sistemas
 
-Durante minha trajetória como médico veterinário, meu tempo para estudar era limitado, mas agora estou completamente focado em me aprimorar na área de tecnologia. Estou procurando ativamente por uma oportunidade de estágio REMOTO - Home Office, pois atualmente resido no interior de São Paulo e dado as circunstancias o que me impede de me deslocar e residir em os grandes centros urbanos onde a maioria das oportunidades está concentrada.
-
-Estou determinado a me desenvolver profissionalmente, adquirir novas habilidades e contribuir de forma significativa para o campo da tecnologia.
-Se vocês conhecem alguma oportunidade ou estão dispostos a me ajudar nessa jornada, por favor, entrem em contato pelo WhatsApp/Telefone (19) 98234-1110.
-Estou disponível para fornecer mais informações e discutir como posso agregar valor à sua empresa.
-
-Agradeço antecipadamente pela atenção e pela possibilidade de colaborarmos juntos</p>
-
+Atualmente, estou em busca de uma oportunidade de Trainee ou Estágio na área de Engenharia de Software e Desenvolvimento. Tenho grande interesse em aplicar meus conhecimentos e estou sempre aberto a aprender novas tecnologias e métodos que possam agregar valor ao meu trabalho e à empresa.</p>
   </div>
 
 
