@@ -1,5 +1,5 @@
 <div display="inline-block">
-    <h1 align="left">Olá Devs,</h1>
+  ##  <h1 align="left">Olá Devs,</h1>
     <p>Sou um profissional especializado em Engenharia de Software com um background diverso e sólido em tecnologia. Tenho um MBA em Engenharia de Software pela FAMESSP e sou certificado pelo programa Oracle Alura em Tecnologia da Informação. Minha formação acadêmica inicial é em Medicina Veterinária pela UNIP, demonstrando minha capacidade de adaptação e aprendizado contínuo.
 
 Possuo Habilidades Técnicas como: Linguagens de Programação: JavaScript, Java, TypeScript, Frameworks e Bibliotecas: ReactJS, React Native, NodeJS, Banco de Dados: SQL, MySQL, Banco de Dados Relacionais e Não Relacionais, Ferramentas e Metodologias: Git, Metodologias Ágeis, Administração de Sistemas
