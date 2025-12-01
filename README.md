@@ -1,9 +1,12 @@
 <div align="center">
   <h1>
     Olá Devs, bem-vindo(a) ao meu perfil do GitHub 👋
+    
     <a href="https://github.com/Fmarzochi">
       <img src="https://img.shields.io/github/followers/Fmarzochi?label=Follow&style=social" alt="GitHub Follow" />
     </a>
+    
+    <img src="https://komarev.com/ghpvc/?username=Fmarzochi&label=PROFILE%20VIEWS&color=005571&style=flat" alt="Profile Views" />
   </h1>
 </div>
 
