@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fmarzochi&show_icons=true&theme=default&locale=pt-BR&bg_color=1A1A1A&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=30A3DC"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Fmarzochi&theme=dark&hide_border=true&background=1A1A1A&stroke=BB86FC&ring=BB86FC" alt="GitHub Streak Stats"/>
   
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fmarzochi&layout=compact&langs_count=7&theme=default&bg_color=1A1A1A&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=30A3DC"/>
 </div>
@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Fmarzochi&label=VISUALIZAÇÕES&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views"/>
 </div>
 
-**Desenvolvedor em transição** com formação técnica consistente, incluindo MBA em Engenharia de Software e curso superior em andamento em Análise e Desenvolvimento de Sistemas. Tenho experiência prática com desenvolvimento Full Stack, utilizando tecnologias como **Java**, **JavaScript**, **ReactJS**, **NodeJS** e **SQL** para construção de aplicações web e APIs robustas. Atuei em projetos de estágio com foco em desenvolvimento de funcionalidades, manutenção de código, suporte técnico, análise de requisitos e execução de testes. Possuo perfil analítico, orientação a resultados e boa adaptação a ambientes ágeis e colaborativos. Busco oportunidades como Estagiário ou Desenvolvedor Júnior para aprofundar minha atuação em engenharia de software e contribuir tecnicamente para projetos em andamento.
+**Desenvolvedor de Software** com formação técnica consistente, incluindo MBA em Engenharia de Software e curso superior em andamento em Análise e Desenvolvimento de Sistemas. Tenho experiência prática com desenvolvimento Full Stack, utilizando tecnologias como **Java**, **JavaScript**, **ReactJS**, **NodeJS** e **SQL** para construção de aplicações web e APIs robustas. Atuei em projetos de estágio com foco em desenvolvimento de funcionalidades, manutenção de código, suporte técnico, análise de requisitos e execução de testes. Possuo perfil analítico, orientação a resultados e boa adaptação a ambientes ágeis e colaborativos. Busco oportunidades como Estagiário ou Desenvolvedor Júnior para aprofundar minha atuação em engenharia de software e contribuir tecnicamente para projetos em andamento.
 
 ---
 
@@ -42,3 +42,5 @@
 <div align="center">
   <small>© Todos os direitos reservados. Desenvolvido por Felipe Marzochi.</small>
 </div>
+
+---
