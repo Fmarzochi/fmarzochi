@@ -1,9 +1,9 @@
 <div align="center">
-  <h2>
-    Olá, bem-vindo(a) ao meu perfil do GitHub 👉&nbsp;<a href="https://github.com/Fmarzochi">
-      <img src="https://img.shields.io/github/followers/Fmarzochi?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=24292e" alt="Botão Seguir GitHub" />
-    </a>
-  </h2>
+  <h2>
+    Olá, bem-vindo(a) ao meu perfil do GitHub 👉&nbsp;<a href="https://github.com/Fmarzochi">
+      <img src="https://img.shields.io/github/followers/Fmarzochi?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=24292e" alt="Botão Seguir GitHub" />
+    </a>
+  </h2>
   
   <img src="https://komarev.com/ghpvc/?username=Fmarzochi&label=VISUALIZAÇÕES&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views"/>
 </div>
@@ -11,11 +11,14 @@
 ---
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fmarzochi&show_icons=true&theme=dark&locale=pt-BR&bg_color=1A1A1A&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" alt="GitHub Stats"/>
-  
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Fmarzochi&theme=dark&hide_border=true&background=1A1A1A&stroke=BB86FC&ring=BB86FC&locale=pt_BR" alt="GitHub Streak Stats"/>
   
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fmarzochi&layout=compact&langs_count=7&theme=dark&bg_color=1A1A1A&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github.com/Fmarzochi/Fmarzochi/blob/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de Contribuições do GitHub"/>
 </div>
 
 ---
