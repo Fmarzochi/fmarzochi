@@ -3,12 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Fmarzochi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fmarzochi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  </a>
-  <a href="https://github.com/Fmarzochi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fmarzochi&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fmarzochi&show_icons=true&theme=default&include_all_commits=true&count_private=true&locale=pt-BR&bg_color=1A1A1A&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=30A3DC"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fmarzochi&layout=compact&langs_count=7&theme=default&bg_color=1A1A1A&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&border_color=30A3DC"/>
 </div>
 
 ---
