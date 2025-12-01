@@ -56,23 +56,4 @@
   <img src="https://img.shields.io/badge/n8n-FF6600.svg?style=flat&logo=n8n&logoColor=white&color=1A1A1A"/>
   <img alt="AWS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
   <img alt="Figma" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  <img alt="Git" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-  <img alt="npm" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/> 
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-</div>
-
----
-
-## 📧 Contatos
-
-<div align="center">
-  <a href="mailto:fmarzochi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/felipemarzochi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Fmarzochi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-<div align="center">
-  <small>© Todos os direitos reservados. Desenvolvido por Felipe Marzochi.</small>
-</div>
-
----
+  <img alt="Git" height="25" width="30" src="https://cdn.jsdelivr.
