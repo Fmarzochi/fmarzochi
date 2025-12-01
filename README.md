@@ -60,6 +60,7 @@
 
 ### ⚙️ Ferramentas e Cloud
 <div align="center">
+  <img alt="n8n" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg"/> 
   <img alt="AWS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
   <img alt="Figma" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   <img alt="Git" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
@@ -80,4 +81,3 @@
 <div align="center">
   <small>© Todos os direitos reservados. Desenvolvido por Felipe Marzochi.</small>
 </div>
-
