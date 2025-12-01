@@ -11,12 +11,6 @@
 
 ---
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Fmarzochi/Fmarzochi/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de Contribuições do GitHub"/>
-</div>
-
----
-
 ## 👤 Sobre Mim 
 
 **Desenvolvedor de Software** com formação técnica consistente, incluindo MBA em Engenharia de Software e curso superior em andamento em Análise e Desenvolvimento de Sistemas. Tenho experiência prática com desenvolvimento Full Stack, utilizando tecnologias como **Java**, **JavaScript**, **ReactJS**, **NodeJS** e **SQL** para construção de aplicações web e APIs robustas. Atuei em projetos de estágio com foco em desenvolvimento de funcionalidades, manutenção de código, suporte técnico, análise de requisitos e execução de testes. Possuo perfil analítico, orientação a resultados e boa adaptação a ambientes ágeis e colaborativos. Busco oportunidades como Estagiário ou Desenvolvedor Júnior para aprofundar minha atuação em engenharia de software e contribuir tecnicamente para projetos em andamento.
@@ -56,4 +50,21 @@
   <img src="https://img.shields.io/badge/n8n-FF6600.svg?style=flat&logo=n8n&logoColor=white&color=1A1A1A"/>
   <img alt="AWS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
   <img alt="Figma" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  <img alt="Git" height="25" width="30" src="https://cdn.jsdelivr.
+  <img alt="Git" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+  <img alt="npm" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/> 
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+</div>
+
+---
+
+## 📧 Contatos
+
+<div align="center">
+  <a href="mailto:fmarzochi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/felipemarzochi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Fmarzochi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<div align="center">
+  <small>© Todos os direitos reservados. Desenvolvido por Felipe Marzochi.</small>
+</div>
