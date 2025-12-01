@@ -12,13 +12,6 @@
 ---
 
 <div align="center">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Fmarzochi&theme=dark&hide_border=true&background=1A1A1A&stroke=BB86FC&ring=BB86FC&locale=pt_BR" alt="GitHub Streak Stats"/>
-  
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fmarzochi&layout=compact&langs_count=7&theme=dark&bg_color=1A1A1A&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <br>
     <img src="https://raw.githubusercontent.com/Fmarzochi/Fmarzochi/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de Contribuições do GitHub"/>
 </div>
 
@@ -81,3 +74,5 @@
 <div align="center">
   <small>© Todos os direitos reservados. Desenvolvido por Felipe Marzochi.</small>
 </div>
+
+---
