@@ -1,8 +1,12 @@
 <div align="center">
   <h1>
     Olá Devs, bem-vindo(a) ao meu perfil do GitHub 👋
-   
-  </h1>
+    
+    <a href="https://github.com/Fmarzochi">
+      <img src="https://img.shields.io/github/followers/Fmarzochi?style=social" alt="GitHub Follow" />
+    </a>
+    
+    </h1>
 </div>
 
 <div align="center">
@@ -13,11 +17,10 @@
 
 ---
 
-<div align="center">
+## 👤 Sobre Mim 
+<div align="right" style="margin-top: -30px;">
   <img src="https://komarev.com/ghpvc/?username=Fmarzochi&label=VISUALIZAÇÕES&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views"/>
 </div>
-
-## 👤 Sobre Mim
 
 **Desenvolvedor em transição** com formação técnica consistente, incluindo MBA em Engenharia de Software e curso superior em andamento em Análise e Desenvolvimento de Sistemas. Tenho experiência prática com desenvolvimento Full Stack, utilizando tecnologias como **Java**, **JavaScript**, **ReactJS**, **NodeJS** e **SQL** para construção de aplicações web e APIs robustas. Atuei em projetos de estágio com foco em desenvolvimento de funcionalidades, manutenção de código, suporte técnico, análise de requisitos e execução de testes. Possuo perfil analítico, orientação a resultados e boa adaptação a ambientes ágeis e colaborativos. Busco oportunidades como Estagiário ou Desenvolvedor Júnior para aprofundar minha atuação em engenharia de software e contribuir tecnicamente para projetos em andamento.
 
