@@ -14,7 +14,9 @@
 
 ## 👤 Sobre Mim 
 
-**Desenvolvedor de Software** com formação técnica consistente, incluindo MBA em Engenharia de Software e curso superior em andamento em Análise e Desenvolvimento de Sistemas. Tenho experiência prática com desenvolvimento Full Stack, utilizando tecnologias como **Java**, **JavaScript**, **ReactJS**, **NodeJS** e **SQL** para construção de aplicações web e APIs robustas. Atuei em projetos de estágio com foco em desenvolvimento de funcionalidades, manutenção de código, suporte técnico, análise de requisitos e execução de testes. Possuo perfil analítico, orientação a resultados e boa adaptação a ambientes ágeis e colaborativos. Busco oportunidades como Estagiário ou Desenvolvedor Júnior para aprofundar minha atuação em engenharia de software e contribuir tecnicamente para projetos em andamento.
+**Desenvolvedor de Software** focado no ecossistema JavaScript, com sólida experiência na construção de aplicações web modernas utilizando ReactJS e Node.js. Minha atuação profissional é pautada pelo equilíbrio entre a criação de interfaces responsivas e intuitivas no front-end e o desenvolvimento de APIs REST eficientes no back-end, sempre integradas a bancos de dados SQL e guiadas pelas melhores práticas de código limpo e organizado.
+
+Ao longo da minha trajetória, especializei-me no desenvolvimento de SPAs com foco em componentes reutilizáveis e na entrega de uma excelente experiência para o usuário final. Além da construção de software, possuo um domínio rigoroso de versionamento com Git e GitHub, garantindo a integridade do código em ambientes colaborativos, e aplico testes unitários para assegurar a qualidade e a confiabilidade das entregas.
 
 ---
 
