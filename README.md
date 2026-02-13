@@ -14,9 +14,9 @@
 
 ## 👤 Sobre Mim 
 
-**Desenvolvedor de Software** focado no ecossistema JavaScript, com sólida experiência na construção de aplicações web modernas utilizando ReactJS e Node.js. Minha atuação profissional é pautada pelo equilíbrio entre a criação de interfaces responsivas e intuitivas no front-end e o desenvolvimento de APIs REST eficientes no back-end, sempre integradas a bancos de dados SQL e guiadas pelas melhores práticas de código limpo e organizado.
+**Desenvolvedor Front-end Junior** focado na criação de interfaces modernas, escaláveis e de alta performance. Atualmente atuo na Traum, onde sou responsável pela construção de SPAs em projetos multi-tenant, integração com APIs REST e implementação de fluxos de onboarding complexos.
 
-Ao longo da minha trajetória, especializei-me no desenvolvimento de SPAs com foco em componentes reutilizáveis e na entrega de uma excelente experiência para o usuário final. Além da construção de software, possuo um domínio rigoroso de versionamento com Git e GitHub, garantindo a integridade do código em ambientes colaborativos, e aplico testes unitários para assegurar a qualidade e a confiabilidade das entregas.
+Combino a especialização em Front-end (React/TS) com uma base sólida de Engenharia de Software. Atualmente, dedico meus estudos avançados ao ecossistema Java (Spring Boot) para dominar a arquitetura de software ponta a ponta. Isso me permite dialogar com o Back-end em alto nível e construir interfaces mais integradas e robustas.
 
 ---
 
