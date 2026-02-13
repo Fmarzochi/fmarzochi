@@ -1,13 +1,13 @@
-
 <div align="center">
-  <h2>
-    Olá, bem-vindo(a) ao meu perfil do GitHub 👉&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Olá,+bem-vindo(a)+ao+meu+perfil+do+GitHub" alt="Typing SVG" />
+  
+  <p>
     <a href="https://github.com/Fmarzochi" target="_blank">
       <img src="https://img.shields.io/github/followers/Fmarzochi?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=24292e" alt="Botão Seguir GitHub" />
     </a>
-  </h2>
-  
-  <img src="https://komarev.com/ghpvc/?username=Fmarzochi&label=VISUALIZAÇÕES&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views"/>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Fmarzochi&label=VISUALIZAÇÕES&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views"/>
+  </p>
 </div>
 
 ---
@@ -26,34 +26,30 @@ Combino a especialização em Front-end (React/TS) com uma base sólida de Engen
 <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
 <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;
 <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;
-<img alt="Kotlin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>&nbsp;
-<img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;
-<img alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;
-<img alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 ### ✨ Frameworks e Bibliotecas
 <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;
 <img alt="NextJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>&nbsp;
+<img alt="Tailwind CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;
 <img alt="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;
-<img alt="Android" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+<img alt="Spring Boot" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>&nbsp;
+<img alt="Jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
 
 ### 💾 Bancos de Dados
-<img alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>&nbsp;
-<img alt="MySQL (SQL)" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;
-<img alt="Firebase" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
+<img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white" height="28"/>
 
 ### ⚙️ Ferramentas e Cloud
-<img src="https://img.shields.io/badge/n8n-FF6600.svg?style=flat&logo=n8n&logoColor=white&color=1A1A1A" height="28"/>&nbsp;
-<img alt="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>&nbsp;
-<img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>&nbsp;
 <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;
-<img alt="npm" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28"/>&nbsp;
+<img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="28"/>
 
 ---
 
 ## 📧 Contatos
-
 <div align="center">
   <a href="mailto:fmarzochi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/felipemarzochi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
