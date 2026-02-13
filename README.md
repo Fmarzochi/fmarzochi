@@ -63,5 +63,5 @@ Ao longo da minha trajetória, especializei-me no desenvolvimento de SPAs com fo
 <br />
 
 <div align="center">
-  <small>© Todos os direitos reservados. Desenvolvido por Felipe Marzochi.</small>
+  <small>© Desenvolvido por Felipe Marzochi.</small>
 </div>
