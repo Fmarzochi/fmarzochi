@@ -14,9 +14,15 @@
 
 ## 👤 Sobre Mim 
 
-**Desenvolvedor Front-end Junior** focado na criação de interfaces modernas, escaláveis e de alta performance. Atualmente atuo na Traum, onde sou responsável pela construção de SPAs em projetos multi-tenant, integração com APIs REST e implementação de fluxos de onboarding complexos.
+**Desenvolvedor Front-end Junior** com experiência em React e TypeScript, atuando na construção de SPAs modernas, escaláveis e de alta performance em ambiente SaaS multi-tenant.
 
-Combino a especialização em Front-end (React/TS) com uma base sólida de Engenharia de Software. Atualmente, dedico meus estudos avançados ao ecossistema Java (Spring Boot) para dominar a arquitetura de software ponta a ponta. Isso me permite dialogar com o Back-end em alto nível e construir interfaces mais integradas e robustas.
+Atualmente trabalho com desenvolvimento de interfaces integradas a APIs REST, consumo de serviços backend e implementação de fluxos complexos de onboarding, garantindo organização de código, componentização e boas práticas de arquitetura no Front-end.
+
+Além da especialização em Front-end, também atuo no backend com Node.js, desenvolvendo integrações, manipulando webhooks, estruturando APIs REST, trabalhando com PostgreSQL e MySQL, utilizando Docker para containerização e aplicando testes automatizados para garantir qualidade e confiabilidade das aplicações. Essa experiência amplia minha visão sobre arquitetura de aplicações, comunicação entre serviços e organização de sistemas em produção.
+
+Paralelamente, estou aprofundando minha atuação em Backend Java com Spring Boot, aplicando conceitos de arquitetura em camadas, segurança com JWT, controle de acesso, persistência com JPA/Hibernate, modelagem relacional e integração com PostgreSQL, além de boas práticas de organização e estruturação de APIs.
+
+Meu objetivo é consolidar uma atuação sólida em Backend (Node.js e Java), mantendo uma visão completa de produto, arquitetura, banco de dados e integração ponta a ponta.
 
 ---
 
