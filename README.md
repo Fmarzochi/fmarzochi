@@ -85,3 +85,21 @@ CREATE INDEX idx_locations_active ON tb_locations(active);
 -- Adiciona índices em tb_movements
 CREATE INDEX idx_movements_instrument_id ON tb_movements(instrument_id);
 CREATE INDEX idx_movements_movement_date ON pair badge -->
+<-- Adiciona constraint UNIQUE na tag (se desejado)
+ALTER TABLE instruments ADD CONSTRAINT uk_instruments_tag UNIQUE (tag);
+
+-- Adiciona índices para consultas frequentes
+CREATE INDEX idx_instruments_name ON instruments(name);
+CREATE INDEX idx_instruments_location_id ON instruments(location_id);
+CREATE INDEX idx_instruments_category_id ON instruments(category_id);
+CREATE INDEX idx_instruments_periodicity_id ON instruments(periodicity_id);
+CREATE INDEX idx_instruments_patrimony_code ON instruments(patrimony_code);
+
+-- Adiciona índices em tb_categories e tb_locations (se necessário)
+CREATE INDEX idx_categories_name ON tb_categories(name);
+CREATE INDEX idx_locations_name ON tb_locations(name);
+CREATE INDEX idx_locations_active ON tb_locations(active);
+
+-- Adiciona índices em tb_movements
+CREATE INDEX idx_movements_instrument_id ON tb_movements(instrument_id);
+CREATE INDEX idx_movements_movement_date ON badge 1 -->
