@@ -102,4 +102,4 @@ CREATE INDEX idx_locations_active ON tb_locations(active);
 
 -- Adiciona índices em tb_movements
 CREATE INDEX idx_movements_instrument_id ON tb_movements(instrument_id);
-CREATE INDEX idx_movements_movement_date ON badge 1 -->
+
