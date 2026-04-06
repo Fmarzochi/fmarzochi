@@ -64,5 +64,27 @@ Meu objetivo é consolidar uma atuação sólida em Backend (Node.js e Java), ma
 
 <br />
 
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://streak-stats.demolab.com?user=Fmarzochi&theme=tokyo-night&hide_border=true" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://streak-stats.demolab.com?user=Fmarzochi&theme=default&hide_border=true" 
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=Fmarzochi&theme=default&hide_border=true" 
+      width="100%"
+    />
+  </picture>
+</div>
+
 <div align="center">
   <small>© Desenvolvido por Felipe Marzochi.</small>
+</div>
