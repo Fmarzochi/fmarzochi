@@ -14,7 +14,7 @@
 
 ## 👤 Sobre Mim 
 
-**Desenvolvedor Front-end** com experiência em React e TypeScript, atuando na construção de SPAs modernas, escaláveis e de alta performance em ambiente SaaS multi-tenant.
+**Desenvolvedor de software** com experiência em React e TypeScript, atuando na construção de SPAs modernas, escaláveis e de alta performance em ambiente SaaS multi-tenant.
 
 Atualmente trabalho com desenvolvimento de interfaces integradas a APIs REST, consumo de serviços backend e implementação de fluxos complexos de onboarding, garantindo organização de código, componentização e boas práticas de arquitetura no Front-end.
 
