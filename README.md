@@ -3,7 +3,7 @@
   
   <p>
     <a href="https://github.com/Fmarzochi" target="_blank">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Fmarzochi&label=Follow&query=followers&style=for-the-badge&logo=github&logoColor=white&color=24292e" alt="GitHub Follow Button" />
+      <img src="https://img.shields.io/github/followers/Fmarzochi?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=24292e" alt="GitHub Follow Button" />
     </a>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=Fmarzochi&label=PROFILE%20VIEWS&color=BB86FC&style=for-the-badge&label_color=555555" alt="Profile Views"/>
