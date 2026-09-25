@@ -18,7 +18,7 @@ Back-end developer specializing in Java and Spring Boot, and AI engineer: I buil
 
 What I do: High-performance REST APIs and data pipelines using Java Spring Boot, PostgreSQL, and Docker. For example, I reduced the processing time for millions of public records from the ANS (National Supplementary Health Agency) from hours to seconds by replacing standard JPA `INSERT` operations with PostgreSQL’s native `COPY` protocol in a custom-built ETL pipeline.
 
-In the AI ​​ecosystem: I created EGC (Extended Global Context), an open-source runtime (MCP) that provides persistent memory to agents like Claude Code, Cursor, and Gemini CLI, cutting token consumption from ~1,500 to ~200 per session (an ~87% reduction). The project has 56 stars and 46 forks, brings together 29 contributors from 10 countries, features documentation in 11 languages, and launched on Product Hunt. I am the author of the Agent Memory Interchange (AMI) open specification, which standardizes portable memory across AI agents.
+In the AI ​​ecosystem: I created EGC (Extended Global Context), an open-source runtime (MCP) that provides persistent memory to agents like Claude Code, Cursor, and Gemini CLI, cutting token consumption from ~1,500 to ~200 per session (an ~87% reduction). The project has 56 stars and 46 forks, brings together 29 contributors from 10 countries, features documentation in 13 languages, and launched on Product Hunt. I am the author of the Agent Memory Interchange (AMI) open specification, which standardizes portable memory across AI agents.
 
 I am also proficient in front-end development when a project requires a full-stack solution: React.js, TypeScript, and Node.js for SPAs, real-time dashboards, and multi-tenant systems.
 
